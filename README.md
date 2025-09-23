@@ -61,7 +61,8 @@
 - Top Manager: Gabriel Azevedo ($9.2M).
 
 ### 📎 How to Use
-- Open Greenleaf_Sales.pbix in Power BI.
-- Now explore the interactive dashboard and insights.
+- Raw Data: Open Raw_Data.xlsx to explore the original dataset.
+- Dashboard: Open Greenleaf_Sales.pbix in Power BI to explore interactive dashboards and insights (screenshots are already included for reference).
+- Report: Open Project report.docx to review the detailed project analysis and findings.
 
 ### 👩🏻‍💻 Author - Sakshi Sahu (Data Analyst)
