@@ -60,4 +60,8 @@
 - Top Salesperson: Carla Ferreira ($4.7M).
 - Top Manager: Gabriel Azevedo ($9.2M).
 
+### 📎 How to Use
+- Open Greenleaf_Sales.pbix in Power BI.
+- Now explore the interactive dashboard and insights.
+
 ### 👩🏻‍💻 Author - Sakshi Sahu (Data Analyst)
